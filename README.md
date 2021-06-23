@@ -1,6 +1,6 @@
 # Twitter Clone App
 
-This project tries to provide basic functionalities of Twitter, while at the same time it includes almost the entire Frontend functionality. 
+This project tries to provide some of the basic functionalities of Twitter, while at the same time it includes almost the entire Frontend functionality. 
 Link to project- https://twitter-clone-e2ecf.web.app/
 
 
