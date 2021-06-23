@@ -1,3 +1,10 @@
+# Twitter Clone App
+
+This project tries to provide basic functionalities of Twitter, while at the same time it includes almost the entire Frontend functionality. 
+Link to project- https://twitter-clone-e2ecf.web.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
